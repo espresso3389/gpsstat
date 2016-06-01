@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPS Status</string>
+    <string name="xxYears">%d year(s)</string>
+    <string name="xxMonths">%d month(s)</string>
+    <string name="xxDays">%d day(s)</string>
+    <string name="xxHours">%d hour(s)</string>
+    <string name="xxMinutes">%d minute(s)</string>
+    <string name="durationLessThanMinute">Less than one minute</string>
+    <string name="lessThan1minute">Just now</string>
+    <string name="xxAgo">%s ago</string>
+</resources>
